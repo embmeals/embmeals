@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ambmeals
 - 👀 I’m interested in glass art and computers
-- 🌱 I’m currently learning to code (Full Stack Dev)
+- 🌱 I’m a Full Stack Web Dev
 - 💞️ I’m looking to collaborate on any project
 - 📫 Reach me at amberdmills@live.com
 
