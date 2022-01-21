@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 Reach me at amberdmills@live.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambmeals&hide=contribs,prs)
+<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambmeals&hide=contribs,prs)</center>
 
 <!---
 ambmeals/ambmeals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
