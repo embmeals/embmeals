@@ -2,15 +2,15 @@
 #### Development and Design
 ![Development and Design](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 
-👋 Hi, I’m @ambmeals and I'm from St. Louis, MO
-👀 I’m interested in glass art and computers
-🌱 I’m a .Net Web Dev. I really enjoy JavaScript and REACT but try to dabble in any language.
-💞️ I’m looking to collaborate on any project
+👋 Hi, I’m @ambmeals and I'm from St. Louis, MO<br>
+👀 I’m interested in glass art and computers<br>
+🌱 I’m a .Net Web Dev. I really enjoy JavaScript and REACT but try to dabble in any language<br>
+💞️ I’m looking to collaborate on any project<br>
 📫 Reach me at amberdmills@live.com
 
 Skills: C# / REACT / JS / HTML / CSS / PHP
 
-- 🔭 I’m currently working on .Net Web Development and personal projects 
+- 🔭 I’m currently working on .Net Web Development/Personal Projects 
 - 🌱 I’m currently learning JavaScript 
 - ⚡ Fun fact: I can pop my ears 
 
