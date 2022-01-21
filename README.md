@@ -2,12 +2,21 @@
 #### Development and Design
 ![Development and Design](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 
+👋 Hi, I’m @ambmeals and I'm from St. Louis, MO
 👀 I’m interested in glass art and computers
 🌱 I’m a .Net Web Dev. I really enjoy JavaScript and REACT but try to dabble in any language.
 💞️ I’m looking to collaborate on any project
 📫 Reach me at amberdmills@live.com
 
 Skills: C# / REACT / JS / HTML / CSS / PHP
+
+- 🔭 I’m currently working on .Net Web Development and personal projects 
+- 🌱 I’m currently learning JavaScript 
+- ⚡ Fun fact: I can pop my ears 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ambmeals)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ambermeals/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/amberdmills)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ambmeals)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://amber-mills.com)  
+
 
 
 
