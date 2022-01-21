@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Amber
 #### Development and Design
-![Development and Design](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
+
+<a href="https://ibb.co/821dcxT"><img src="https://i.ibb.co/7VsR4p8/banner.png" alt="banner" border="0"></a>
 
 👋 Hi, I’m @ambmeals and I'm from St. Louis, MO<br>
 👀 I’m interested in glass art and computers<br>
