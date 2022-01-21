@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @ambmeals
 - 👀 I’m interested in glass art and computers
-- 🌱 I’m a Full Stack Web Dev
+- 🌱 I’m a .Net Web Dev. I really enjoy JavaScript and REACT but try to dabble in any language.
 - 💞️ I’m looking to collaborate on any project
 - 📫 Reach me at amberdmills@live.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambmeals&hide=contribs,prs)
 
 <!---
 ambmeals/ambmeals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
