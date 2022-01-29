@@ -6,7 +6,7 @@
 👀 I’m interested in glass art and computers<br>
 🌱 I’m a .Net Web Dev. I really enjoy JavaScript and REACT but try to dabble in any language<br>
 💞️ I’m looking to collaborate on any project<br>
-📫 Reach me at amberdmills@live.com
+📫 Reach me at amberdmills@live.com</p>
 
 Skills: C# / REACT / JS / HTML / CSS / PHP
 
@@ -15,7 +15,7 @@ Skills: C# / REACT / JS / HTML / CSS / PHP
 - ⚡ Fun fact: I can pop my ears 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ambmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/amberdmills)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ambmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://amber-mills.com)</p>    
+<p align="center">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ambmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/amberdmills)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ambmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://amber-mills.com)</p>    
   
 
   
