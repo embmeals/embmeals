@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Amber
-#### Development and Design
+<h1 align="center"> Hi there 👋, my name is Amber</h1>
+<h1 align="center">Development and Design</h1>
 <p align="center">
 <a href="https://ibb.co/821dcxT"><img src="https://i.ibb.co/7VsR4p8/banner.png" alt="banner" border="0"></a>
 
