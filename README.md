@@ -4,7 +4,7 @@
 
 👋 Hi, I’m @ambmeals and I'm from St. Louis, MO<br>
 👀 I’m interested in glass art and computers<br>
-🌱 I’m a .Net Web Dev. I really enjoy JavaScript and REACT but try to dabble in any language<br>
+🌱 I’m a .Net Web Dev<br>
 💞️ I’m looking to collaborate on any project<br>
 📫 Reach me at amberdmills@live.com</p>
 
