@@ -8,7 +8,7 @@
 💞️ I’m looking to collaborate on any project<br>
 📫 Reach me at amberdmills@live.com</p>
 
-Skills: C# / REACT / JS / HTML / CSS / PHP
+Skills: C# / VUE / JS / HTML / CSS / PHP / JQuery
 
 - 🔭 I’m currently working on .Net Web Development/Personal Projects 
 - 🌱 I’m currently learning JavaScript 
