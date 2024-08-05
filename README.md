@@ -6,7 +6,6 @@
 👀 I’m interested in glass art and computers<br>
 🌱 I’m a .Net Web Dev<br>
 💞️ I’m looking to collaborate on any project<br>
-📫 Reach me at amberdmills@live.com</p>
 
 Skills: C# / VUE / JS / HTML / CSS / PHP / JQuery
 
