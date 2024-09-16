@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there 👋, my name is Amber</h1>
 <p align="center">
-<a href="https://ibb.co/821dcxT"><img src="https://i.ibb.co/7VsR4p8/banner.png" alt="banner" border="0"></a>
 
 👋 Hi, I’m @ambmeals and I'm from St. Louis, MO<br>
 👀 I’m interested in glass art and computers<br>
