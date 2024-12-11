@@ -3,13 +3,13 @@
 
 👋 Hi, I’m @ambmeals and I'm from St. Louis, MO<br>
 👀 I’m interested in glass art and computers<br>
-🌱 I’m a .Net Web Dev<br>
+🌱 I’m a Full Stack .Net Web Dev<br>
 💞️ I’m looking to collaborate on any project<br>
 
-Skills: C# / VUE / JS / HTML / CSS / PHP / JQuery
+Skills: C# / VUE / JS / HTML / CSS / PHP / JQuery / REACT/ SASS
 
 - 🔭 I’m currently working on .Net Web Development/Personal Projects 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m fluent with JavaScript 
 - ⚡ Fun fact: I can pop my ears 
 
 
