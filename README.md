@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there 👋, my name is Amber</h1>
+<h1 align="center"> Hi there 👋, my name is Ember</h1>
 <p align="center">
 
-👋 Hi, I’m @ambmeals and I'm from St. Louis, MO<br>
+👋 Hi, I'm from St. Louis<br>
 👀 I’m interested in glass art and computers<br>
 🌱 I’m a Full Stack .Net Web Dev<br>
 💞️ I’m looking to collaborate on any project<br>
