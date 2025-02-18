@@ -13,7 +13,7 @@ Skills: C# / C++/ SQL / VUE / JS / HTML / CSS / PHP / JQuery / REACT/ SASS
 - ⚡ Fun fact: I can pop my ears 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/embmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ambmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://ambermills.dev)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/embmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ambmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://emills.net)   
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=embmeals&hide=contribs,prs)
