@@ -13,12 +13,12 @@ Skills: C# / C++/ SQL / VUE / JS / HTML / CSS / PHP / JQuery / REACT/ SASS
 - ⚡ Fun fact: I can pop my ears 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/embmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/amberdmills)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ambmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://ambermills.dev)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/embmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ambmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://ambermills.dev)   
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=embmeals&hide=contribs,prs)
 
 <!---
-ambmeals/ambmeals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+embmeals/embmeals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
