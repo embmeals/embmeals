@@ -6,7 +6,7 @@
 🌱 I’m a Full Stack .Net Web Dev<br>
 💞️ I’m looking to collaborate on any project<br>
 
-Skills: C# / C++/ SQL / VUE / JS / HTML / CSS / PHP / JQuery / REACT/ SASS
+Skills: C# / C++ / SQL / VUE / JS / HTML / CSS / PHP / JQuery / REACT/ SASS / Angular / Python / Django
 
 - 🔭 I’m currently working on .Net Web Development/Personal Projects 
 - 🌱 I’m fluent with JavaScript 
