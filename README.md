@@ -1,22 +1,23 @@
-<h1 align="center"> Hi there 👋, my name is Ember</h1>
-<p align="center">
+# Ember Mills
 
-👋 Hi, I'm from St. Louis<br>
-👀 I’m interested in glass art and computers<br>
-🌱 I’m a Full Stack .Net Web Dev<br>
-💞️ I’m looking to collaborate on any project<br>
+**Senior Full Stack Engineer** based in St. Louis
 
-Skills: C# / C++ / SQL / VUE / JS / HTML / CSS / PHP / JQuery / REACT/ SASS / Angular / Python / Django
+I build web applications with .NET and React, and run a self-hosted media server infrastructure in my spare time. I care about accessible, well-crafted software and queer representation in tech.
 
-- 🔭 I’m currently working on .Net Web Development/Personal Projects 
-- 🌱 I’m fluent with JavaScript 
-- ⚡ Fun fact: I can pop my ears 
+## What I Work With
 
+**Languages:** C#, Python, JavaScript, TypeScript, SQL, PHP
+**Frontend:** React, Vue.js, Next.js, Angular, Tailwind CSS
+**Backend:** .NET Core, ASP.NET Web API, Django, Entity Framework, REST, GraphQL
+**Infrastructure:** Docker, Linux, Azure DevOps, GitHub Actions, CI/CD, Cloudflare
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/embmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ambmeals)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://emills.net)   
+## Current Projects
 
+- **[emills.net](https://emills.net)** -- Portfolio site
+- **[media-monitor](https://github.com/embmeals/media-monitor)** -- Python health monitor for automated media server pipelines (Plex, Radarr, Sonarr) with auto-remediation
+- **Homelab** -- Self-hosted media automation stack: Plex, Radarr, Sonarr, Prowlarr, Syncthing, Docker, Cloudflare Tunnels
 
-<!---
-embmeals/embmeals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Links
+
+- [Portfolio](https://emills.net)
+- [LinkedIn](https://www.linkedin.com/in/ember-mills)
