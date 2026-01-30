@@ -25,8 +25,8 @@ I build web applications with .NET and React, and run a self-hosted media server
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=embmeals&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=embmeals&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=embmeals&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=embmeals&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links
 
