@@ -47,7 +47,6 @@ I build web applications with .NET and React, and run a self-hosted media server
 ## Stats
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=embmeals&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=embmeals&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%"/></a>
 
 ## Links
 
