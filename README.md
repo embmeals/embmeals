@@ -52,4 +52,4 @@ I build web applications with .NET and React, and run a self-hosted media server
 ## Links
 
 - [Portfolio](https://emills.net)
-- [LinkedIn](https://www.linkedin.com/in/ember-mills)
+- [LinkedIn](https://www.linkedin.com/in/ember-d-mills)
