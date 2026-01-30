@@ -7,8 +7,11 @@ I build web applications with .NET and React, and run a self-hosted media server
 ## What I Work With
 
 **Languages:** C#, Python, JavaScript, TypeScript, SQL, PHP
+
 **Frontend:** React, Vue.js, Next.js, Angular, Tailwind CSS
+
 **Backend:** .NET Core, ASP.NET Web API, Django, Entity Framework, REST, GraphQL
+
 **Infrastructure:** Docker, Linux, Azure DevOps, GitHub Actions, CI/CD, Cloudflare
 
 ## What I'm Up To
